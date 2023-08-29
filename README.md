@@ -3,9 +3,10 @@
 *A collection of folders and files to optimize gaming performance on Linux*
 
 This repository contains folders and settings files that I use on my desktop for gaming on Linux. It also serves as a backup for my configurations and a reference for anyone looking for performance improvements.
-My Specs
 
-<img src=“img/specs.png”> 
+## My Specs
+
+<img src="img/specs.png">
 
 ## Usage
 
