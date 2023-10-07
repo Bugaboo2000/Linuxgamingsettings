@@ -7,7 +7,7 @@ user_settings = {
     #Log directory can be overridden with $PROTON_LOG_DIR.
 
     #Wine debug logging
-#    "WINEDEBUG": "+timestamp,+pid,+tid,+seh,+debugstr,+loaddll,+mscoree",
+    "WINEDEBUG": "-all",
 
     #DXVK debug logging
 #    "DXVK_LOG_LEVEL": "info",
