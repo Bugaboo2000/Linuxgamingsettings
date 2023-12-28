@@ -16,4 +16,4 @@ export vblank_mode=0
 export __GL_SYNC_TO_VBLANK=0
 export LIBVA_DRIVER_NAME=vdpau
 export __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1
-
+export PATH="$HOME/.local/bin:$PATH"
